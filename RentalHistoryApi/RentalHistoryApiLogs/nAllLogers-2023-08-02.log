@@ -1,0 +1,8 @@
+2023-08-02 14:16:49.4262||INFO|RentalHistoryAPI.Filters.LoggerFilterAttribbute|Request started: GET /rentals/ X-Request-ID: 8ea460dd-8e06-4f6f-8663-69730232d138 
+2023-08-02 14:16:49.4573||INFO|RentalHistoryAPI.Services.RentalHistoryService|GET action for all customers invoked, , X-Request-ID: 8ea460dd-8e06-4f6f-8663-69730232d138 
+2023-08-02 14:16:49.5918||INFO|RentalHistoryAPI.Services.RentalHistoryService|GET action for all customers executed, , X-Request-ID: 8ea460dd-8e06-4f6f-8663-69730232d138 
+2023-08-02 14:16:49.5918||INFO|RentalHistoryAPI.Filters.LoggerFilterAttribbute|Request finished: GET /rentals/, Response: 200, Duration: 170 ms, X-Request-ID: 8ea460dd-8e06-4f6f-8663-69730232d138 
+2023-08-02 14:16:51.4727||INFO|RentalHistoryAPI.Filters.LoggerFilterAttribbute|Request started: GET /rentals/ X-Request-ID: fabc8d90-5b5c-4e70-80e8-a3741cedbf71 
+2023-08-02 14:16:51.4727||INFO|RentalHistoryAPI.Services.RentalHistoryService|GET action for all customers invoked, , X-Request-ID: fabc8d90-5b5c-4e70-80e8-a3741cedbf71 
+2023-08-02 14:16:51.4859||INFO|RentalHistoryAPI.Services.RentalHistoryService|GET action for all customers executed, , X-Request-ID: fabc8d90-5b5c-4e70-80e8-a3741cedbf71 
+2023-08-02 14:16:51.4859||INFO|RentalHistoryAPI.Filters.LoggerFilterAttribbute|Request finished: GET /rentals/, Response: 200, Duration: 13 ms, X-Request-ID: fabc8d90-5b5c-4e70-80e8-a3741cedbf71 
