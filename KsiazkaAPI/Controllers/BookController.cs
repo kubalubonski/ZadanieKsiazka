@@ -86,7 +86,11 @@ public class BookController : ControllerBase
         return NoContent();
     }    
     
-    
+    [HttpGet("test")]
+        public async Task<ActionResult<string>> Test()
+        {
+            return Ok("test");
+        }
 
 }
 

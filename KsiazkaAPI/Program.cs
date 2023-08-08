@@ -17,6 +17,7 @@ internal class Program
         builder.Services.AddDbContext<BooksContext>(options => options.UseNpgsql(connectionString));
         // Add services to the container.
 
+
         builder.Services.AddScoped<ErrorHandlingMiddleware>();
 
         builder.Services.AddControllers();

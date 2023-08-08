@@ -1,0 +1,2 @@
+{ "time": "2023-08-07 08:57:25.8611", "level": "INFO", "logger": "KsiazkaAPI.Filters.LoggerFilterAttribbute", "message": "Request started: GET /books/test X-Request-ID: 0f614a9c-e5ab-4d37-a679-bf3c365e9992" }
+{ "time": "2023-08-07 08:57:25.8855", "level": "INFO", "logger": "KsiazkaAPI.Filters.LoggerFilterAttribbute", "message": "Request finished: GET /books/test, Response: 200, Duration: 26 ms, X-Request-ID: 0f614a9c-e5ab-4d37-a679-bf3c365e9992" }

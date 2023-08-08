@@ -21,6 +21,7 @@
         ],
         "sources": {
           "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "http://company-squid:3128": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

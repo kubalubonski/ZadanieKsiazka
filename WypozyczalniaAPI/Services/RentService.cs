@@ -150,7 +150,7 @@ public class RentService : IRentService
         _logger.LogInformation($"CREATE action for new rent executed, , X-Request-ID: {requestId}");
 
         //To kafka
-        await SendRentalEventCreateToKafka(rent.Rentid, "Created");
+        //await SendRentalEventCreateToKafka(rent.Rentid, "Created");
     }
 
     

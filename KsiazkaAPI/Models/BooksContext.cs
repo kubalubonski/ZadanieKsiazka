@@ -6,7 +6,7 @@ namespace KsiazkaAPI.Models;
 
 public partial class BooksContext : DbContext
 {
-    private string _connectionString = "Host=localhost;Database=Books;Username=postgres;Password=Lebronjames1*";
+    //private string _connectionString = "Host=host.docker.internal;Port=5432;Database=Books;Username=postgres;Password=Lebronjames1*;";
 
 
     public BooksContext(DbContextOptions<BooksContext> options)

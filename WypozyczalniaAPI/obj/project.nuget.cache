@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5SZ5vfUdEe4opjtbG5I0opfKP00Tj6FeXvBDFHz00Ir0BwBDY+BltJFjH05MKLz6gJdkJwk9FHWqtBUY9H59kg==",
+  "dgSpecHash": "MPa6T56qZGMhPH4S3H6o46yjrDhxUKdJYP+aKULgkIyMxkIcdle6gM9eUUPasQoCFpa/OJf0SXhUyy11Czpkgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jakub Luboński\\Desktop\\ZadanieKsiazka\\WypozyczalniaAPI\\WypozyczalniaAPI.csproj",
   "expectedPackageFiles": [
@@ -133,5 +133,12 @@
     "C:\\Users\\Jakub Luboński\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Jakub Luboński\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://company-squid:3128'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
